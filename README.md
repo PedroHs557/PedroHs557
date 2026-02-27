@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sobre mim 🙂</h2>
+<h2 align="left">Sobre mim:</h2>
 
 ###
 
@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Pedrin">
+  <a href="https://open.spotify.com/user/Jugolazz">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Pedrin&count=5" alt="Spotify recently played"  />
   </a>
 </div>
