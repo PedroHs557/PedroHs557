@@ -99,11 +99,11 @@
 
 ###
 
-<p data-importer="text" align="center">Músicas</g>
+<h2 data-importer="text" align="center">Músicas</h2>
 
 ###
-<img data-importer="image" align="left" height="200" src="https://i.pinimg.com/736x/f8/b6/fa/f8b6fa85a2029e385e5310f695d5f900.jpg"  />
-<div data-importer="music" align="right">
+<img data-importer="image" align="right" height="340" src="https://i.pinimg.com/736x/f8/b6/fa/f8b6fa85a2029e385e5310f695d5f900.jpg"  />
+<div data-importer="music" align="left">
   <a href="https://open.spotify.com/user/Jugolazz">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zo56eke46fxj7snli6jug2oaya"  />
   </a>
@@ -113,7 +113,7 @@
 
 <br clear="both">
 
-<p data-importer="text" align="center">Entre em contato por aqui ⬇️</g>
+<h2 data-importer="text" align="center">Entre em contato por aqui ⬇️</h2>
 
 ###
 
