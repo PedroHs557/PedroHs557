@@ -110,7 +110,7 @@
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/Jugolazz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jugolazz&count=5" alt="Spotify recently played"  />
+    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zo56eke46fxj7snli6jug2oaya)"  />
   </a>
 </div>
 
