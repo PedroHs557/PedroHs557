@@ -20,7 +20,7 @@
 
 ###
 
-<m data-importer="text" align="left">✨ Cursando o 2° semestre de Desenvolvimento de Sistemas<br>💫 Objetivo de cursar e trabalhar na área de Cyber Segurança<br>🎸 Gosto bastante de rock e também toco guitarra</m>
+<m data-importer="text" align="left">✨ Cursando o 2° semestre de Desenvolvimento de Sistemas no SENAI<br>🎯 Objetivo de cursar e trabalhar na área de Cyber Segurança<br>🎸 Gosto bastante de rock e também toco guitarra</m>
 
 ###
 
