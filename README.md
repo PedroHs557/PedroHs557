@@ -99,7 +99,7 @@
 
 ###
 
-<img data-importer="image" align="left" height="200" src="https://i.pinimg.com/736x/f8/b6/fa/f8b6fa85a2029e385e5310f695d5f900.jpg"  />
+<img data-importer="image" align="left" height="400" src="https://i.pinimg.com/736x/f8/b6/fa/f8b6fa85a2029e385e5310f695d5f900.jpg"  />
 
 ###
 
@@ -109,7 +109,7 @@
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/Jugolazz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jugolazz&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zo56eke46fxj7snli6jug2oaya"  />
   </a>
 </div>
 
