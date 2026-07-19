@@ -87,7 +87,6 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=PedroHs557&locale=pt-br&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/PedroHs557/PedroHs557/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/PedroHs557/PedroHs557/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
