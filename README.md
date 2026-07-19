@@ -85,11 +85,8 @@
 </div>
 
 ###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/PedroHs557/PedroHs557/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/PedroHs557/PedroHs557/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=PedroHs557&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=PedroHs557&show_icons=true&include_all_commits=true&theme=highcontrast)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=PedroHs557&layout=donut&langs_count=5&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=PedroHs557&layout=donut&langs_count=5&theme=highcontrast)
 
 ###
 
@@ -99,15 +96,14 @@
 
 ###
 
-<img data-importer="image" align="left" height="400" src="https://i.pinimg.com/736x/f8/b6/fa/f8b6fa85a2029e385e5310f695d5f900.jpg"  />
 
 ###
 
-<p data-importer="text" align="center">Músicas</p>
+<p data-importer="text" align="center">Músicas</g>
 
 ###
-
-<div data-importer="music" align="center">
+<img data-importer="image" align="left" height="200" src="https://i.pinimg.com/736x/f8/b6/fa/f8b6fa85a2029e385e5310f695d5f900.jpg"  />
+<div data-importer="music" align="right">
   <a href="https://open.spotify.com/user/Jugolazz">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zo56eke46fxj7snli6jug2oaya"  />
   </a>
@@ -117,7 +113,7 @@
 
 <br clear="both">
 
-<p data-importer="text" align="center">Entre em contato por aqui ⬇️</p>
+<p data-importer="text" align="center">Entre em contato por aqui ⬇️</g>
 
 ###
 
@@ -133,11 +129,6 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHs557/PedroHs557/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHs557/PedroHs557/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroHs557/PedroHs557/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
 
