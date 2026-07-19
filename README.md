@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">Meu nome é Pedro Henrique e sou um Dev iniciante. Nasci e vivo no Brasil</p>
+<m data-importer="text" align="left">Meu nome é Pedro Henrique, e sou um Dev iniciante que tem como objetivo ter uma boa carreira na area de T.I. futureamente. Sou de São Paulo e no momento ainda estou no ensino médio</m>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Cursando o 2° semestre de Desenvolvimento de Sistemas<br>💫 Objetivo de cursar e trabalhar na área de Cyber Segurança<br>🎸 Gosto bastante de rock e também toco guitarra</p>
+<m data-importer="text" align="left">✨ Cursando o 2° semestre de Desenvolvimento de Sistemas<br>💫 Objetivo de cursar e trabalhar na área de Cyber Segurança<br>🎸 Gosto bastante de rock e também toco guitarra</m>
 
 ###
 
